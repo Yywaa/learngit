@@ -1,4 +1,4 @@
-Git is free to use 
+Git is a free software to use 
 
 Creating a new branch is quick AND simple
 
